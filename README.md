@@ -1,5 +1,5 @@
 # ABOUT ME 
 
-Hi I'm Valentine, a software developer focusing on building frontend/blockchain applications.
-I'm generally intersted in tech. currently i'm working with Javascript, Typscript, Solidity, React, Ethers.js, Nextjs and Figma to build and design web applications.
+Hi I'm Valentine, a fullstack web developer .
+I'm generally intersted in tech. currently i'm working with the MERN stack for web2 applications and Solidity, Ethers.js for web3 applications.
  
