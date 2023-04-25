@@ -1,5 +1,1 @@
-# ABOUT ME 
-
-Hi I'm Valentine, a fullstack web developer .
-I'm generally intersted in tech. currently i'm working with the MERN stack for web2 applications and Solidity, Ethers.js for web3 applications.
- 
+Hi there, I’m Valentine, a fullstack web developer who loves to create amazing things with code. 🚀 Whether it’s web2 or web3, I’m always on the lookout for the latest technologies and trends. 🕵️‍♂️ I use the MERN stack and Solidity/Ethers.js to build cutting-edge applications that solve real-world problems.💡
